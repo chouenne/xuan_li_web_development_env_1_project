@@ -17,12 +17,14 @@ p{
 h1{
     font-size: 35px;
     color: white;
-    font-weight: 200;
+    font-weight: 400;
+    text-transform: uppercase;
 }
 
 h2{
     font-size: 30px;
     font-weight: 200;
+    text-transform: capitalize;
 }
 
 a{
