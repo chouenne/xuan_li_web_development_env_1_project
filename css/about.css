@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+p{
+    font-size:14px;
+    margin-top: 10px;
+    line-height: 30px;
+}
+
+h1{
+    font-size: 35px;
+    color: white;
+    font-weight: 200;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 200;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+section{
+    padding: 80px 0;
+}
+
+.container{
+    max-width: 900px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-header{
+    position: fixed;
+    width: 100%;
+    transition: .5s;
+}
+
+.header-flex{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+}
+
+.nav-list{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    text-transform: capitalize;
+}
+
+.list{text-transform: uppercase;}
+
+.main-header a:hover{
+    color: rgb(58, 225, 58);
+}
+
+.text-box{
+    color: white;
+    text-align: center;
+}
+
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    color:rgb(58, 225, 58);
+    border: solid 2px rgb(58, 225, 58);
+    padding: 10px 20px;
+    text-transform: capitalize;
+    margin-top: 25px;
+
+}
+
+.bigbanner{
+    height: 70vh;
+    background: url(https://www.2440media.com/sites/default/files/assets/images/blog/The%20Difference%20between%20Web%20Designer%2C%20Web%20Developer%2C%20and%20Web%20Programmer.jpg) rgba(16, 16, 16, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+}
+
+.bio-flex{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+}
+
+.bio img{
+    height: 300px;
+}
+
+.right{
+    width: 50%;
+}
+
+
+.bio-flex{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+}
+
+.left{
+    width: 50%;
+    height: 300px;
+    background: url(image/about.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.right{
+    width: 50%;
+}
+
+
+
+
