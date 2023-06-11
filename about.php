@@ -45,7 +45,7 @@
         <div class="container">
             <div class="bio-flex">
                 <div class="left">
-                    <img src="images/about-x.jpg" alt="">
+                    <img src="assets/images/about-x.jpg" alt="">
                 </div>
                 <div class="right">
                     <h2>xuan huang</h2>
