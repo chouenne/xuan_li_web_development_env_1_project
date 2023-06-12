@@ -41,7 +41,7 @@
         </div>
     </section>
 
-    <section class="bio">
+    <section class="bio_x">
         <div class="container">
             <div class="bio-flex">
                 <div class="left">
@@ -56,5 +56,20 @@
         </div>
     </section>
     
+    <section class="bio_l">
+        <div class="container">
+            <div class="bio-flex">
+                <div class="left">
+                    <img src="assets/images/about-li.png" alt="">
+                </div>
+                <div class="right">
+                    <h2>li xia</h2>
+                    <p>Hello and welcome to my About page! My name is Li Xia, and I am delighted to share a little bit about myself with you. I am a passionate individual who is constantly seeking knowledge and new experiences. Throughout my life, I have developed a diverse set of interests and skills that have shaped me into the person I am today. Let me take you on a journey through some of the key aspects of my life. I have been interested in art since I was a child, and graduated from the Art Design of Jiangnan University in China.After graduating from university, I worked as a graphic designer in Shanghai, China for three years.After I got married and had my daughter I became a full-time mother. Out of love for children, my friends and I founded a parent-child reading non-profit organization. So far, our member mothers have reached more than 3,000. We study with our children and grow up healthily and happily.At the same time, I founded an art training school - Golden Microphone Art Troupe. Then I accompanied my daughter to study in Canada and continued to be my full-time mother.</p>
+                    <a href="" class="btn">learn more</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
 </body>
 </html>
