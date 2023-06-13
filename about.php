@@ -60,7 +60,7 @@
         <div class="container">
             <div class="bio-flex">
                 <div class="left">
-                    <img src="assets/images/about-li.jpg" alt="">
+                    <img src="assets/images/about-l.jpg" alt="">
                 </div>
                 <div class="right">
                     <h2>li xia</h2>
