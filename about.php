@@ -45,7 +45,7 @@
         <div class="container">
             <div class="bio-flex">
                 <div class="left">
-                    <img src="assets/images/about-x.jpg" alt="">
+                    left
                 </div>
                 <div class="right">
                     <h2>xuan huang</h2>
@@ -60,7 +60,7 @@
         <div class="container">
             <div class="bio-flex">
                 <div class="left">
-                    <img src="assets/images/about-l.jpg" alt="">
+                    left
                 </div>
                 <div class="right">
                     <h2>li xia</h2>
