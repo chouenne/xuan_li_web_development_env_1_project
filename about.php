@@ -71,5 +71,17 @@
         </div>
     </section>
 
+    <script>
+		$(window).scroll(function() {    
+		    var scroll = $(window).scrollTop();
+
+		    if (scroll >= 100) {
+		        $(".main-header").addClass("has-bg");
+		    } else {
+		        $(".main-header").removeClass("has-bg");
+		    }
+		});
+	</script>
+
 </body>
 </html>
