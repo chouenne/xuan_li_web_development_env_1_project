@@ -44,8 +44,7 @@
     <section class="bio-x">
         <div class="container">
             <div class="bio-flex">
-                <div class="left">
-                    left
+                <div class="image image01">
                 </div>
                 <div class="right">
                     <h2>xuan huang</h2>
@@ -59,7 +58,7 @@
     <section class="bio-l">
         <div class="container">
             <div class="bio-flex">
-                <div class="left">
+                <div class="image image01">
                     left
                 </div>
                 <div class="right">
