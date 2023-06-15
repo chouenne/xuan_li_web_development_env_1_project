@@ -75,7 +75,7 @@
 		$(window).scroll(function() {    
 		    var scroll = $(window).scrollTop();
 
-		    if (scroll >= 100) {
+		    if (scroll >= 80) {
 		        $(".main-header").addClass("has-bg");
 		    } else {
 		        $(".main-header").removeClass("has-bg");
