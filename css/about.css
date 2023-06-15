@@ -104,17 +104,16 @@ section{
 
 .bio-x img{
     background-image: url(assets/images/about-x);
-    height: 200px;
-    width:50%;
-}
-
-   
+    background-size: cover;
+    background-position: center;
+    height: 300px;
 }
 
 .bio-l img{
     background-image: url(assets/images/about-l);
-    height: 200px;
-    width: 50%;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
 }
 
 .right{
