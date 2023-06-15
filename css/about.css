@@ -102,33 +102,24 @@ section{
     align-items: center;
 }
 
-.bio-x .image{
+.bio-x .left{
+    background: url(assets/images/about-x.jpg);
     background-size: cover;
     background-position: center;
     height: 300px;
+    width: 50%;
 }
 
-.bio-l .image{
+.bio-l .left{
+    background: url(assets/images/about-l.jpg);
     background-size: cover;
     background-position: center;
     height: 300px;
-}
-
-.image01{
-    background: url(assets/images/about-x);
-}
-
-.image02{
-    background: url(assets/images/about-l);
+    width: 50%;
 }
 
 .right{
     width: 50%;
 }
-
-.left{
-    width: 50%;
-}
-
 
 
