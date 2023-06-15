@@ -44,7 +44,9 @@
     <section class="bio-x">
         <div class="container">
             <div class="bio-flex">
-                <div class="left"></div>
+                <div class="left">
+                    <img src="assets/images/about-x.jpg" alt="">
+                </div>
                 <div class="right">
                     <h2>xuan huang</h2>
                     <p>Have a strong educational background in graphic design, having completed a 2-year program in the field. After finishing my education, I worked for 2 years in an e-commerce company as a product manager. In this role, my responsibilities included creating marketing materials and designing graphics to support the company's products. Although I enjoyed my time in this role, I found that my true passion lay in graphic design and creating beautiful designs. I have always been drawn to the creative process, and I find it incredibly fulfilling to see my designs come to life. Over the years, I have developed a variety of skills that are essential to success in the field of graphic design. I am highly skilled in using Adobe Photoshop, Illustrator, and InDesign.</p>
@@ -58,6 +60,7 @@
         <div class="container">
             <div class="bio-flex">
                 <div class="left"></div>
+                    <img src="assets/images/about-l.jpg" alt="">
                 <div class="right">
                     <h2>li xia</h2>
                     <p>Hello and welcome to my About page! My name is Li Xia, and I am delighted to share a little bit about myself with you. I am a passionate individual who is constantly seeking knowledge and new experiences. Throughout my life, I have developed a diverse set of interests and skills that have shaped me into the person I am today. Let me take you on a journey through some of the key aspects of my life. I have been interested in art since I was a child, and graduated from the Art Design of Jiangnan University in China.After graduating from university, I worked as a graphic designer in Shanghai, China for three years.After I got married and had my daughter I became a full-time mother.After that I founded a parent-child reading non-profit organization.</p>

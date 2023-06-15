@@ -102,20 +102,8 @@ section{
     align-items: center;
 }
 
-.bio-x .left{
-    background: url(assets/images/about-x.jpg);
-    background-size: cover;
-    background-position: center;
+.bio img{
     height: 300px;
-    width: 50%;
-}
-
-.bio-l .left{
-    background: url(assets/images/about-l.jpg);
-    background-size: cover;
-    background-position: center;
-    height: 300px;
-    width: 50%;
 }
 
 .right{
