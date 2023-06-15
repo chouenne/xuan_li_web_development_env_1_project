@@ -103,11 +103,7 @@ section{
     align-items: center;
 }
 
-.bio_x img{
-    height: 300px;
-}
-
-.bio_l img{
+img{
     height: 300px;
 }
 
