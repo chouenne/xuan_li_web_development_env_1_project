@@ -115,18 +115,18 @@ section{
 }
 
 .image01{
-    background-image: url(assets/images/about-x);
+    background: url(assets/images/about-x);
 }
 
 .image02{
-    background-image: url(assets/images/about-l);
+    background: url(assets/images/about-l);
 }
 
 .right{
     width: 50%;
 }
 
-.image{
+.left{
     width: 50%;
 }
 
