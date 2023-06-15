@@ -98,7 +98,7 @@ section{
 
 .bio-flex{
     display: flex;
-    gap: 100px;
+    gap: 20px;
     align-items: center;
 }
 
@@ -109,5 +109,10 @@ section{
 .right{
     width: 50%;
 }
+
+.left{
+    width: 50%;
+}
+
 
 
