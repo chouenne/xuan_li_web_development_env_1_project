@@ -91,7 +91,6 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 80px 0;
     background-size: cover;
     background-position: center;
     background-blend-mode: overlay;
@@ -103,11 +102,11 @@ section{
     align-items: center;
 }
 
-.bio_x img{
+.bio-x img{
     height: 300px;
 }
 
-.bio_l img{
+.bio-l img{
     height: 300px;
 }
 

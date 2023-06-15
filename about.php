@@ -41,7 +41,7 @@
         </div>
     </section>
 
-    <section class="bio_x">
+    <section class="bio-x">
         <div class="container">
             <div class="bio-flex">
                 <div class="left">
@@ -56,7 +56,7 @@
         </div>
     </section>
     
-    <section class="bio_l">
+    <section class="bio-l">
         <div class="container">
             <div class="bio-flex">
                 <div class="left">
