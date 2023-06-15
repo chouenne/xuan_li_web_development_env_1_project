@@ -102,11 +102,7 @@ section{
     align-items: center;
 }
 
-.bio-x .left img{
-    height: 300px;
-}
-
-.bio-l .left img{
+img{
     height: 300px;
 }
 
