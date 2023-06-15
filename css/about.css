@@ -104,10 +104,12 @@ section{
 
 .bio-x img{
     height: 300px;
+    width:50%;
 }
 
 .bio-l img{
     height: 300px;
+    width:50%;
 }
 
 .right{
