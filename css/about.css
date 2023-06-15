@@ -111,21 +111,9 @@ img{
     width: 50%;
 }
 
-.bio-flex{
-    display: flex;
-    gap: 100px;
-    align-items: center;
-}
-
 .left{
     width: 50%;
-    height: 300px;
 }
-
-.right{
-    width: 50%;
-}
-
 
 
 
